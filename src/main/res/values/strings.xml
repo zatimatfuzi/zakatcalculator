@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name"> Zakat Calculator </string>
+    <string name="copyright">Copyright &#169; 2022 Izzati and Husna</string>
+    <string name="about_text"> Zakat is a pillar of Islam whereby we all need \nto pay 2.5% of our total savings and wealth. \nYour compulsory Zakat payment includes Zakat \non Gold. Therefore, the Zakat you need to pay on \nthe Gold you own is 2.5% of its value. </string>
+    <string name="developer"> Our Developers \n\nNUR IZZATI BINTI MAT FUZI \n2020615286 \n\nNURUL HUSNA BINTI NOOR AZWAN \n2020897338</string>
+    <string name="course"> This apps has been developed for \n ITT650 at UiTM Arau </string>
+    <string name="link"> Github : </string>
+
+
+</resources>
